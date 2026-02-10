@@ -1,3 +1,3 @@
-# Sanple project2
+# Sample project2
 This project created from local System
-by Sanajana Rathore
+by Sanajana Rathore For the very first time
